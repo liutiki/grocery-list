@@ -1,12 +1,13 @@
-# Getting Started with Create React App
+# Project: Grocery list
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made to help people make shoping and not to forget anything to byu.
 
-## Available Scripts
 
-In the project directory, you can run:
+## Stack that I used:
 
-### `npm start`
+React
+
+### 
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
